@@ -1,0 +1,1034 @@
+.konsultasi-11 {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 144px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .rectangle-1772 {
+    border-radius: 10px;
+    position: absolute;
+    left: 50%;
+    top: 256px;
+    translate: -50% 0;
+    width: 1300px;
+    height: 1544px;
+  }
+  .konsultasi-11 .konsultasi-dengan-dokter {
+    position: relative;
+    margin: 0 70px 100px 70px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 32px;
+    color: #7E7E7E;
+  }
+  .konsultasi-11 .dokter-spesialis {
+    position: relative;
+    margin: 0 100px 30px 100px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 32px;
+    color: #7E7E7E;
+  }
+  .konsultasi-11 .tampilkan-lebih-banyak {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+  }
+  .konsultasi-11 .frame-4642 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    column-gap: 40px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .frame-4637 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    border: 1px solid #DCDCDC;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 11px 0;
+    width: 234px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .ellipse-1517 {
+    border-radius: 39px;
+    background: #D9D9D9;
+    margin-bottom: 16px;
+    width: 78px;
+    height: 78px;
+  }
+  .konsultasi-11 .spesialis-penyakit-kulit {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+  }
+  .konsultasi-11 .frame-4638 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    border: 1px solid #DCDCDC;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 11px 16.8px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .ellipse-1518 {
+    border-radius: 39px;
+    background: #D9D9D9;
+    margin-bottom: 16px;
+    width: 78px;
+    height: 78px;
+  }
+  .konsultasi-11 .spesialis-perawatan-kulit {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+  }
+  .konsultasi-11 .frame-4639 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    border: 1px solid #DCDCDC;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 11px 4.3px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .ellipse-15181 {
+    border-radius: 39px;
+    background: #D9D9D9;
+    margin-bottom: 16px;
+    width: 78px;
+    height: 78px;
+  }
+  .konsultasi-11 .spesialis-talk-therapy-clinic {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+  }
+  .konsultasi-11 .frame-4761 {
+    position: relative;
+    margin: 0 91px 29px 91px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .dokter-rekomendasi {
+    position: relative;
+    margin-bottom: 30px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 32px;
+    color: #7E7E7E;
+  }
+  .konsultasi-11 .card-dokter-v-2 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 32px 24px;
+    width: 1258px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .dokter-rekomendasi-11 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 32px;
+    color: #7E7E7E;
+  }
+  .konsultasi-11 .navbar {
+    background: #378CE7;
+    position: relative;
+    margin-bottom: 53px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 16px 80px;
+    width: 1441px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .card-dokter-v-21 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background: #FFFFFF;
+    position: relative;
+    margin: 0 91px 50px 91px;
+    display: flex;
+    flex-direction: row;
+    padding-right: 24px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .rectangle-1752 {
+    border-radius: 10px;
+    background: #D9D9D9;
+    margin-right: 56px;
+    width: 320px;
+    height: 306px;
+  }
+  .konsultasi-11 .frame-4699 {
+    margin: 32px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .dr-lorem-ipsum-abogoboga-spdi {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 32px;
+    color: #000000;
+  }
+  .konsultasi-11 .frame-4701 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: 209.3px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .frame-4694 {
+    background: #7E7E7E;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding: 4px 0.2px 4px 0;
+    width: 113px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .sp-kulit {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+  }
+  .konsultasi-11 .frame-4698 {
+    margin-left: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 201.3px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .frame-4696 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .rectangle-17681 {
+    background: #D9D9D9;
+    margin-right: 10px;
+    width: 23px;
+    height: 23px;
+  }
+  .konsultasi-11 .container {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    color: #000000;
+  }
+  .konsultasi-11 .frame-4697 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .rectangle-1769 {
+    background: #D9D9D9;
+    margin-right: 10px;
+    width: 23px;
+    height: 23px;
+  }
+  .konsultasi-11 .tahun {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    color: #000000;
+  }
+  .konsultasi-11 .frame-4656 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .frame-4703 {
+    margin-right: 12.3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .mulai-dari {
+    margin: 0 3.1px 4px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    color: #000000;
+  }
+  .konsultasi-11 .rp-50000 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    text-decoration-line: line-through;
+    color: #FF0000;
+  }
+  .konsultasi-11 .rp-39999 {
+    margin: 1px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 32px;
+    color: #000000;
+  }
+  .konsultasi-11 .frame-4700 {
+    border-radius: 12px;
+    background: #7B7B7B;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px 0.3px 10px 0;
+    width: 858px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .mulai-konsultasi {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .konsultasi-11 .card-dokter-v-22 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background: #FFFFFF;
+    position: relative;
+    margin: 0 91px 30px 91px;
+    display: flex;
+    flex-direction: row;
+    padding-right: 24px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .rectangle-17521 {
+    border-radius: 10px;
+    background: #D9D9D9;
+    margin-right: 56px;
+    width: 320px;
+    height: 306px;
+  }
+  .konsultasi-11 .frame-46991 {
+    margin: 32px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .dr-lorem-ipsum-abogoboga-spdi-1 {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 32px;
+    color: #000000;
+  }
+  .konsultasi-11 .frame-47011 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: 209.3px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .frame-46941 {
+    background: #7E7E7E;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding: 4px 0.2px 4px 0;
+    width: 113px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .sp-kulit-1 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+  }
+  .konsultasi-11 .frame-46981 {
+    margin-left: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 201.3px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .frame-46961 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .rectangle-17682 {
+    background: #D9D9D9;
+    margin-right: 10px;
+    width: 23px;
+    height: 23px;
+  }
+  .konsultasi-11 .container-1 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    color: #000000;
+  }
+  .konsultasi-11 .frame-46971 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .rectangle-17691 {
+    background: #D9D9D9;
+    margin-right: 10px;
+    width: 23px;
+    height: 23px;
+  }
+  .konsultasi-11 .tahun-1 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    color: #000000;
+  }
+  .konsultasi-11 .frame-46561 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .frame-47031 {
+    margin-right: 12.3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .mulai-dari-1 {
+    margin: 0 3.1px 4px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    color: #000000;
+  }
+  .konsultasi-11 .rp-500001 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    text-decoration-line: line-through;
+    color: #FF0000;
+  }
+  .konsultasi-11 .rp-399991 {
+    margin: 1px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 32px;
+    color: #000000;
+  }
+  .konsultasi-11 .frame-47001 {
+    border-radius: 12px;
+    background: #7B7B7B;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px 0.3px 10px 0;
+    width: 858px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .mulai-konsultasi-1 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .konsultasi-11 .card-dokter-v-23 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background: #FFFFFF;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 24px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .rectangle-17522 {
+    border-radius: 10px;
+    background: #D9D9D9;
+    margin-right: 56px;
+    height: 306px;
+    flex-grow: 1;
+    flex-basis: 320px;
+  }
+  .konsultasi-11 .frame-46992 {
+    margin: 32px 0;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 858px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .dr-lorem-ipsum-abogoboga-spdi-2 {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 32px;
+    color: #000000;
+  }
+  .konsultasi-11 .frame-47012 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: 209.3px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .frame-46942 {
+    background: #7E7E7E;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding: 4px 0.2px 4px 0;
+    width: 113px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .sp-kulit-2 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+  }
+  .konsultasi-11 .frame-46982 {
+    margin-left: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 201.3px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .frame-46962 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .rectangle-17683 {
+    background: #D9D9D9;
+    margin-right: 10px;
+    width: 23px;
+    height: 23px;
+  }
+  .konsultasi-11 .container-2 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    color: #000000;
+  }
+  .konsultasi-11 .frame-46972 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .rectangle-17692 {
+    background: #D9D9D9;
+    margin-right: 10px;
+    width: 23px;
+    height: 23px;
+  }
+  .konsultasi-11 .tahun-2 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    color: #000000;
+  }
+  .konsultasi-11 .frame-46562 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .frame-47032 {
+    margin-right: 12.3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .mulai-dari-2 {
+    margin: 0 3.1px 4px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    color: #000000;
+  }
+  .konsultasi-11 .rp-500002 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    text-decoration-line: line-through;
+    color: #FF0000;
+  }
+  .konsultasi-11 .rp-399992 {
+    margin: 1px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 32px;
+    color: #000000;
+  }
+  .konsultasi-11 .frame-47002 {
+    border-radius: 12px;
+    background: #7B7B7B;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px 0.3px 10px 0;
+    width: 858px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .mulai-konsultasi-2 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .konsultasi-11 .navbar-1 {
+    background: #FFFFFF;
+    position: absolute;
+    top: 0px;
+    right: -1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 16px 80px;
+    width: 1441px;
+    height: 100px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .rectangle-1833 {
+    background: #D9D9D9;
+    width: 199px;
+    height: 68px;
+  }
+  .konsultasi-11 .frame-4753 {
+    position: relative;
+    margin: 15px 0 19px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 4px;
+    width: 708.8px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .home {
+    margin-right: 15px;
+    width: 137px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #737373;
+  }
+  .konsultasi-11 .konsultasi {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #737373;
+  }
+  .konsultasi-11 .menjadi-membership {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #737373;
+  }
+  .konsultasi-11 .artikel {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #737373;
+  }
+  .konsultasi-11 .ellipse-1548 {
+    border-radius: 7.5px;
+    background: #1400FF;
+    position: absolute;
+    top: 0px;
+    right: 145.8px;
+    width: 15px;
+    height: 15px;
+  }
+  .konsultasi-11 .frame-4752 {
+    position: relative;
+    margin: 11px 0;
+    width: 186px;
+    height: 46px;
+  }
+  .konsultasi-11 .container {
+    border-radius: 10px;
+    border: 1px solid #000000;
+    background: #D9D9D9;
+    position: relative;
+    margin-bottom: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+    padding: 9px 0.9px 9px 0;
+    width: 376px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .dr-lorem-ipsum-abogoboga-spdi-3 {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 32px;
+    color: #000000;
+  }
+  .konsultasi-11 .sp-kulit-3 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+  }
+  .konsultasi-11 .rectangle-17523 {
+    border-radius: 10px;
+    background: #D9D9D9;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 320px;
+    height: 307px;
+  }
+  .konsultasi-11 .container-3 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    color: #000000;
+  }
+  .konsultasi-11 .tahun-3 {
+    margin-bottom: 1px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    color: #000000;
+  }
+  .konsultasi-11 .frame-46563 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .mulai-dari-3 {
+    margin: 0 3.1px 4px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    color: #000000;
+  }
+  .konsultasi-11 .rp-500003 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    text-decoration-line: line-through;
+    color: #FF0000;
+  }
+  .konsultasi-11 .mulai-konsultasi-3 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .konsultasi-11 .frame-46943 {
+    border-radius: 5px;
+    background: #4A5BF9;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding: 4px 0.2px 4px 0;
+    width: 113px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .frame-46963 {
+    margin-bottom: 1px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .frame-46973 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .frame-46983 {
+    margin-left: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 202.3px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .rp-399993 {
+    margin: 1px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 32px;
+    color: #000000;
+  }
+  .konsultasi-11 .frame-46993 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .frame-47003 {
+    border-radius: 12px;
+    background: #378CE7;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px 0.3px 10px 0;
+    width: 858px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .frame-47013 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: 210.3px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .frame-47033 {
+    margin-right: 12.3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .thumb-up {
+    margin-right: 10px;
+    width: 23px;
+    height: 23px;
+  }
+  .konsultasi-11 .stethoscope {
+    margin-right: 10px;
+    width: 24px;
+    height: 24px;
+  }
+  .konsultasi-11 .frame-47531 {
+    margin: 11.5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 717px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .home-1 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-right: 15px;
+    width: 137px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .konsultasi-11 .konsultasi-1 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .konsultasi-11 .menjadi-membership-1 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .konsultasi-11 .artikel-1 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .konsultasi-11 .frame-47521 {
+    margin: 3.5px 0;
+    display: flex;
+    flex-direction: row;
+    width: 186px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .mask-group {
+    border-radius: 23px;
+    position: relative;
+    width: 46px;
+    box-sizing: border-box;
+  }
+  .konsultasi-11 .image-15 {
+    background: url('../assets/images/image15.png');
+    position: absolute;
+    left: -2.7px;
+    bottom: -17.1px;
+    width: 48.7px;
+    height: 75.4px;
+  }
+  .konsultasi-11 .notification {
+    background: url('../assets/images/notification.png') 50% / cover no-repeat;
+    margin-right: 24px;
+    width: 46px;
+    height: 46px;
+  }
+  .konsultasi-11 .email {
+    background: url('../assets/images/email.png') 50% / cover no-repeat;
+    margin-right: 24px;
+    width: 46px;
+    height: 46px;
+  }
+  .konsultasi-11 .your-skin {
+    border: 1px solid #000000;
+    margin-right: 26.5px;
+    width: 248px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 35px;
+    color: #FFFFFF;
+  }
+  .your-skin {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 1.333;
+  }
+  .your-skin-sub4 {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 1.333;
+    color: #4A5BF9;
+  }
+  .your-skin-sub5 {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 1.333;
+  }
+
+  /* elment
+  background: #FFFFFF;
+display: flex;
+flex-direction: column;
+padding-bottom: 144px;
+width: 1440px;
+box-sizing: border-box; */

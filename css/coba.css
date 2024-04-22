@@ -1,0 +1,8 @@
+.menu-utama-belum-login-revisi {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1441px;
+    box-sizing: border-box;
+}

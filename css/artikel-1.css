@@ -1,0 +1,812 @@
+.artikel-1 .container {
+    margin: 0 77px 40px 77px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .artikel-1 {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 36px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .frame-4756 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background: #FFFFFF;
+    margin-bottom: 70px;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    padding: 12px 0 12px 24px;
+    width: 628px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .ellipse-1514 {
+    border-radius: 16px;
+    background: #D9D9D9;
+    margin-right: 19px;
+    width: 32px;
+    height: 32px;
+  }
+  .artikel-1 .cari-sesuatu {
+    margin: 1px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #7E7E7E;
+  }
+  .artikel-1 .rectangle-1749 {
+    border-radius: 10px;
+    background: #D9D9D9;
+    margin-right: 21px;
+    width: 209px;
+    height: 194px;
+  }
+  .artikel-1 .rectangle-1750 {
+    border-radius: 10px;
+    background: #D9D9D9;
+    margin-right: 21px;
+    width: 209px;
+    height: 194px;
+  }
+  .artikel-1 .rectangle-1751 {
+    border-radius: 10px;
+    background: #D9D9D9;
+    margin-right: 21px;
+    width: 209px;
+    height: 194px;
+  }
+  .artikel-1 .rectangle-1752 {
+    border-radius: 10px;
+    background: #D9D9D9;
+    margin-right: 21px;
+    width: 209px;
+    height: 194px;
+  }
+  .artikel-1 .lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit-quaerat-quae-cumque-commodi-aperiam-iusto-vel-voluptate-quos-possimus-voluptatibus-voluptas-praesentium-qui-illo-explicabo-perspiciatis-expedita-ratione-ullam-autem-nemo-lorem {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+  }
+  .artikel-1 .lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit-quaerat-quae-cumque-commodi-aperiam-iusto-vel-voluptate-quos-possimus-voluptatibus-voluptas-praesentium-qui-illo-explicabo-perspiciatis-expedita-ratione-ullam-autem-nemo-lorem-1 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+  }
+  .artikel-1 .lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit-quaerat-quae-cumque-commodi-aperiam-iusto-vel-voluptate-quos-possimus-voluptatibus-voluptas-praesentium-qui-illo-explicabo-perspiciatis-expedita-ratione-ullam-autem-nemo-lorem-2 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+  }
+  .artikel-1 .lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit-quaerat-quae-cumque-commodi-aperiam-iusto-vel-voluptate-quos-possimus-voluptatibus-voluptas-praesentium-qui-illo-explicabo-perspiciatis-expedita-ratione-ullam-autem-nemo-lorem-3 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+  }
+  .artikel-1 .kesehatan-kulit-07-april-2024 {
+    margin-bottom: 5px;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+  }
+  .kesehatan-kulit-07-april-2024 {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+    color: #7E7E7E;
+  }
+  .kesehatan-kulit-07-april-2024-sub1 {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.333;
+  }
+  .artikel-1 .kesehatan-kulit-30-maret-2024 {
+    margin-bottom: 5px;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+  }
+  .kesehatan-kulit-30-maret-2024 {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+    color: #7E7E7E;
+  }
+  .kesehatan-kulit-30-maret-2024-sub1 {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.333;
+  }
+  .artikel-1 .kesehatan-kulit-24-maret-2024 {
+    margin-bottom: 5px;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+  }
+  .kesehatan-kulit-24-maret-2024 {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+    color: #7E7E7E;
+  }
+  .kesehatan-kulit-24-maret-2024-sub1 {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.333;
+  }
+  .artikel-1 .kesehatan-kulit-20-maret-2024 {
+    margin-bottom: 5px;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+  }
+  .kesehatan-kulit-20-maret-2024 {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+    color: #7E7E7E;
+  }
+  .kesehatan-kulit-20-maret-2024-sub1 {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.333;
+  }
+  .artikel-1 .fakta-menarik-tentang-buah-naga-untuk-kesehatan-kulit {
+    margin: 0 1px 5px 1px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 20px;
+    color: #7E7E7E;
+  }
+  .artikel-1 .fakta-menarik-tentang-buah-naga-untuk-kesehatan-kulit-1 {
+    margin: 0 1px 5px 1px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 20px;
+    color: #7E7E7E;
+  }
+  .artikel-1 .fakta-menarik-tentang-buah-naga-untuk-kesehatan-kulit-2 {
+    margin: 0 1px 5px 1px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 20px;
+    color: #7E7E7E;
+  }
+  .artikel-1 .fakta-menarik-tentang-buah-naga-untuk-kesehatan-kulit-3 {
+    margin: 0 1px 5px 1px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 20px;
+    color: #7E7E7E;
+  }
+  .artikel-1 .navbar {
+    background: #FFFFFF;
+    margin-bottom: 38px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 16px 80px;
+    width: 1441px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .rectangle-1833 {
+    background: #D9D9D9;
+    width: 199px;
+    height: 68px;
+  }
+  .artikel-1 .frame-4753 {
+    position: relative;
+    margin: 15px 0 19px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 4px;
+    width: 708.8px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .artikel-1 .home {
+    margin-right: 15px;
+    width: 137px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #737373;
+  }
+  .artikel-1 .konsultasi {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #737373;
+  }
+  .artikel-1 .menjadi-membership {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #737373;
+  }
+  .artikel-1 .artikel {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #737373;
+  }
+  .artikel-1 .ellipse-1548 {
+    border-radius: 7.5px;
+    background: #1400FF;
+    position: absolute;
+    top: 0px;
+    right: 145.8px;
+    width: 15px;
+    height: 15px;
+  }
+  .artikel-1 .frame-4752 {
+    position: relative;
+    margin: 11px 0;
+    width: 186px;
+    height: 46px;
+  }
+  .artikel-1 .frame-4693 {
+    margin: 0 81px 70px 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .artikel-1 .frame-4664 {
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    width: 2163px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .frame-4663 {
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .artikel-1 .baca-artikel-kesehatan-kulit {
+    margin-right: 17.3px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 32px;
+    color: #7E7E7E;
+  }
+  .artikel-1 .informasi-kesehatan-terpercaya-hanya-untukmu {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+  }
+  .artikel-1 .frame-4661 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: 2163px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .frame-4656 {
+    border-radius: 8px;
+    background: #D9D9D9;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 0px 8px 0;
+    width: 126px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .terbaru {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+  }
+  .artikel-1 .frame-4657 {
+    border-radius: 8px;
+    background: #F2F2F2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 0.1px 8px 0;
+    width: 207px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .kecantikan-kulit {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #777777;
+  }
+  .artikel-1 .frame-4658 {
+    border-radius: 8px;
+    background: #F2F2F2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 0.6px 8px 0;
+    width: 203px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .kesehatan-kulit {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #777777;
+  }
+  .artikel-1 .frame-4659 {
+    border-radius: 8px;
+    background: #F2F2F2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 0.4px 8px 0;
+    width: 229px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .kesehatan-mental {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #777777;
+  }
+  .artikel-1 .frame-4660 {
+    border-radius: 8px;
+    background: #F2F2F2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 24.4px 8px 24px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .penyakit-kulit-dan-penganggulangan {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #777777;
+  }
+  .artikel-1 .frame-46611 {
+    border-radius: 8px;
+    background: #F2F2F2;
+    position: absolute;
+    right: 442px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 24.4px 8px 24px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .penyakit-kulit-dan-penganggulangan-1 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #777777;
+  }
+  .artikel-1 .frame-4662 {
+    border-radius: 8px;
+    background: #D9D9D9;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 24.4px 8px 24px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .penyakit-kulit-dan-penganggulangan-2 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #777777;
+  }
+  .artikel-1 .frame-4672 {
+    margin-right: 3px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .artikel-1 .frame-4667 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background: #FFFFFF;
+    margin-right: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .artikel-1 .card-berita {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 21px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .frame-4671 {
+    margin-bottom: 103px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .artikel-1 .card-rekomendasi-berita {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background: #FFFFFF;
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .artikel-1 .card-rekomendasi-berita-1 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .artikel-1 .container-1 {
+    margin: 0 77px 40px 77px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .artikel-1 .container-2 {
+    margin-bottom: 34px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .artikel-1 .container-3 {
+    margin-bottom: 34px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .artikel-1 .container-4 {
+    margin: 0 77px 40px 77px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .artikel-1 .container-5 {
+    margin-bottom: 34px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .artikel-1 .container-6 {
+    margin: 0 77px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .artikel-1 .container-7 {
+    margin-bottom: 34px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .artikel-1 .rectangle-1748 {
+    border-radius: 10px;
+    background: #D9D9D9;
+    margin-bottom: 36px;
+    width: 752px;
+    height: 512px;
+  }
+  .artikel-1 .frame-4665 {
+    margin: 0 24.1px 0 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .artikel-1 .frame-4666 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 703.9px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .frame-46631 {
+    border-radius: 8px;
+    background: #757575;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 0.3px 8px 0;
+    width: 211px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .kecantikan-kulit-1 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .artikel-1 .maret-2024 {
+    margin: 8px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-size: 20px;
+    color: #121212;
+  }
+  .artikel-1 .cara-merawat-kulit-agar-tetap-sehat {
+    margin: 0 62.2px 8px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 32px;
+    color: #121212;
+  }
+  .artikel-1 .selain-itu-kulit-juga-berperan-sebagai-pengatur-suhu-tubuh-mengimbangi-cairan-dan-melindungi-kulit-daripaparan-buruk-sinar-uvmatahari {
+    margin-right: 23.2px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #121212;
+  }
+  .selain-itu-kulit-juga-berperan-sebagai-pengatur-suhu-tubuh-mengimbangi-cairan-dan-melindungi-kulit-daripaparan-buruk-sinar-uvmatahari-sub2 {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration-line: underline;
+    line-height: 1.333;
+  }
+  .artikel-1 .rectangle-17481 {
+    border-radius: 10px;
+    background: #D9D9D9;
+    margin-right: 24px;
+    width: 230px;
+    height: 313px;
+  }
+  .artikel-1 .frame-46651 {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    padding: 12px 11px 0 12px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .frame-46661 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .artikel-1 .maret-20241 {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-size: 20px;
+    color: #121212;
+  }
+  .artikel-1 .frame-46632 {
+    border-radius: 8px;
+    background: #757575;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 0.1px 8px 0;
+    width: 207px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .kecantikan-kulit-2 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .artikel-1 .cara-merawat-kulit-agar-tetap-sehat-1 {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 20px;
+    color: #121212;
+  }
+  .artikel-1 .selain-itu-kulit-juga-berperan-sebagai-pengatur-suhu-tubuh-mengimbangi-cairan-dan-melindungi-kulit-daripaparan-buruk-sinar-uvmatahari-1 {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    color: #121212;
+  }
+  .selain-itu-kulit-juga-berperan-sebagai-pengatur-suhu-tubuh-mengimbangi-cairan-dan-melindungi-kulit-daripaparan-buruk-sinar-uvmatahari-1 {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+  }
+  .selain-itu-kulit-juga-berperan-sebagai-pengatur-suhu-tubuh-mengimbangi-cairan-dan-melindungi-kulit-daripaparan-buruk-sinar-uvmatahari-1-sub1 {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+  }
+  .selain-itu-kulit-juga-berperan-sebagai-pengatur-suhu-tubuh-mengimbangi-cairan-dan-melindungi-kulit-daripaparan-buruk-sinar-uvmatahari-1-sub2 {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration-line: underline;
+    line-height: 1.333;
+  }
+  .artikel-1 .rectangle-17482 {
+    border-radius: 10px;
+    background: #D9D9D9;
+    margin-right: 24px;
+    width: 230px;
+    height: 313px;
+  }
+  .artikel-1 .frame-46652 {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    padding: 12px 11px 0 12px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .frame-46662 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .artikel-1 .maret-20242 {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-size: 20px;
+    color: #121212;
+  }
+  .artikel-1 .frame-46633 {
+    border-radius: 8px;
+    background: #757575;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 0.1px 8px 0;
+    width: 207px;
+    box-sizing: border-box;
+  }
+  .artikel-1 .kecantikan-kulit-3 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .artikel-1 .cara-merawat-kulit-agar-tetap-sehat-2 {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 20px;
+    color: #121212;
+  }
+  .artikel-1 .selain-itu-kulit-juga-berperan-sebagai-pengatur-suhu-tubuh-mengimbangi-cairan-dan-melindungi-kulit-daripaparan-buruk-sinar-uvmatahari-2 {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    color: #121212;
+  }
+  .selain-itu-kulit-juga-berperan-sebagai-pengatur-suhu-tubuh-mengimbangi-cairan-dan-melindungi-kulit-daripaparan-buruk-sinar-uvmatahari-2 {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+  }
+  .selain-itu-kulit-juga-berperan-sebagai-pengatur-suhu-tubuh-mengimbangi-cairan-dan-melindungi-kulit-daripaparan-buruk-sinar-uvmatahari-2-sub1 {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.333;
+  }
+  .selain-itu-kulit-juga-berperan-sebagai-pengatur-suhu-tubuh-mengimbangi-cairan-dan-melindungi-kulit-daripaparan-buruk-sinar-uvmatahari-2-sub2 {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration-line: underline;
+    line-height: 1.333;
+  }
